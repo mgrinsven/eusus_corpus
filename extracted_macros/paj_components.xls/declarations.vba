@@ -1,0 +1,1 @@
+Attribute VB_Name = "declarations"Option ExplicitPublic Const CRed = 3, CDkBlue = 11, CMaroon = 54, LtGreen = 35, Pink = 38, DkYellow = 6, LtYellow As Integer = 19Public Const LtBlue = 20, DkBlue = 33, LtGray = 24
